@@ -1,5 +1,4 @@
-function informativa() {
-     document.getElementById("root").innerHTML = "informativa"
-    }
-
+function informativa(){
+    alert("informativa")
+}
  

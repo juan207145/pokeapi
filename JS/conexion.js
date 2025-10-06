@@ -28,7 +28,7 @@ async function General() {
   Home();
 }
 
-General()
+
 
 async function FiltroConexion(filtroelegido){
     pokesFiltrados = await Conexion(filtroelegido)

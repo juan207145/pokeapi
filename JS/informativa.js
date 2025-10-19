@@ -1,4 +1,4 @@
-function informativa(){
-    alert("informativa")
+function Informativa(){
+    alert("Informativa")
 }
  
